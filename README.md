@@ -6,14 +6,14 @@
 ## Flet-Box:
 ### It's a Python GUI Framework for Multi-Platform Apps
 
-[![Gallery Preview FLET-BOX](flet_box/assets/screens_1.png)](https://www.youtube.com/watch?v=15DDAACb0Hw)
+[![Gallery Preview FLET-BOX](https://github.com/xavier53348/Flet-Box/blob/main/flet_box/assets/.screen_1.png)](https://www.youtube.com/watch?v=15DDAACb0Hw)
 
 <details>
     <summary>Gallery Preview FLET-BOX</summary>
-    <img src="flet_box/assets/screens_1.png"    alt="Imagen Flet-Box">
-    <img src="flet_box/assets/screens_2.png"    alt="Colors Flet-Box">
-    <img src="flet_box/assets/screens_3.png"    alt="Code Flet-Box">
-    <img src="flet_box/assets/screens_4.png"    alt="Icons Flet-Box">
+    <img src="https://github.com/xavier53348/Flet-Box/blob/main/flet_box/assets/.screen_1.png"    alt="Imagen Flet-Box">
+    <img src="https://github.com/xavier53348/Flet-Box/blob/main/flet_box/assets/.screen_2.png"    alt="Imagen Flet-Box">
+    <img src="https://github.com/xavier53348/Flet-Box/blob/main/flet_box/assets/.screen_3.png"    alt="Imagen Flet-Box">
+    <img src="https://github.com/xavier53348/Flet-Box/blob/main/flet_box/assets/.screen_4.png"    alt="Imagen Flet-Box">
 </details>
 
 
